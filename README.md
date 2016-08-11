@@ -4,7 +4,44 @@
   <link href='https://fonts.googleapis.com/css?family=Dancing+Script' rel='stylesheet' type='text/css'>
    <link href='https://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
    <link rel="stylesheet" type="text/css" href="style.css">
+<style>     h1{ /*color:teal;*/
+      text-align:center;
+      color:rgb(2, 132, 130
+        )
+       }
+    h2{ /*color:gold;*/
+      text-align:center;
+      color:#ffd700
+     }
+    h3{ color:blue; 
+      text-align:center;}
 
+p{ text-align:center;}
+   
+.board {display:inline-block;
+        height: 80%;
+        width: 50%
+        
+      
+}
+ .card {
+   height:200px;
+   width: 150px;
+   border: 1px solid black;
+   border-radius: 10px;
+   background-color:yellow;
+
+
+}
+footer{; 
+text-align: center; 
+font-family:'dancing Script'
+}
+
+span{ color:#ff0000; 
+font-family:'lobster';}
+.nav{color:#ff0000}
+</style>
   <head>
           <tilte>Puzzle Game</tilte>
  
